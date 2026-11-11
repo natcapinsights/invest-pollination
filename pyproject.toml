@@ -21,7 +21,6 @@ dependencies = [
     "pygeoprocessing",
     "gdal",
     "numpy",
-    "nci-pollination",
 ]
 
 [tool.setuptools_scm]
